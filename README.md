@@ -1,1 +1,1 @@
-# shklein.github.io
+HTML/CSS resume coding challenge for Prime Digital Academy, created Feb 2016.
